@@ -1,2 +1,2 @@
-# KNN-Matlab
-Clasificador KNN en matlab
+# k-means-Matlab
+Clasificador K-Medias en matlab
